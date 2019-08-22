@@ -1,0 +1,11 @@
+G:\C#code\notepad\notepad\bin\Debug\notepad.exe.config
+G:\C#code\notepad\notepad\bin\Debug\notepad.exe
+G:\C#code\notepad\notepad\bin\Debug\notepad.pdb
+G:\C#code\notepad\notepad\obj\Debug\notepad.csprojAssemblyReference.cache
+G:\C#code\notepad\notepad\obj\Debug\notepad.FrmChild.resources
+G:\C#code\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+G:\C#code\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+G:\C#code\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+G:\C#code\notepad\notepad\obj\Debug\notepad.exe
+G:\C#code\notepad\notepad\obj\Debug\notepad.pdb
+G:\C#code\notepad\notepad\obj\Debug\notepad.FrmParent.resources
